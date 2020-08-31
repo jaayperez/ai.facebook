@@ -1,0 +1,25 @@
+{
+  "name": "ai.facebook",
+  "version": "1.0.0",
+  "description": "Facebook AI Bot utilizing Artificial Intelligence",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jaayperez/ai.facebook.git"
+  },
+  "keywords": [
+    "facebook",
+    "node",
+    "ai",
+    "bot"
+  ],
+  "author": "Justin Perez <justin@startrev.com> (https://justinperez.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jaayperez/ai.facebook/issues"
+  },
+  "homepage": "https://github.com/jaayperez/ai.facebook#readme"
+}
